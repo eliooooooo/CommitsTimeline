@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import CommitItem from '@/components/CommitItem.vue';
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <CommitItem />
   </main>
 </template>
