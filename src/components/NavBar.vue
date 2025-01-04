@@ -16,3 +16,20 @@
     </ul>
   </nav>
 </template>
+
+<style>
+nav {
+  display: flex;
+  flex-direction: column;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+</style>

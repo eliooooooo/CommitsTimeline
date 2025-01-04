@@ -1,9 +1,9 @@
 <script setup>
-import CommitItem from '@/components/CommitItem.vue';
+import TimelineBar from '@/components/TimelineBar.vue';
 </script>
 
 <template>
   <main>
-    <CommitItem />
+    <TimelineBar />
   </main>
 </template>
